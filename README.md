@@ -71,3 +71,21 @@ make html
 ```
 
 5. Open the index.html file in the docs/build/html directory
+
+## Links
+
+* [Code metrics for Python][1000]
+
+[1000]: https://github.com/rubik/radon/
+
+* [Python static type analyzer from Google][1010]
+
+[1010]: https://github.com/google/pytype
+
+* [Pyre: type checking for Python from Facebook][1020]
+
+[1020]: https://github.com/facebook/pyre-check
+
+[Pyright: static type checker for Python from Microsoft][1030]
+
+[1030]: https://github.com/Microsoft/pyright
